@@ -11,7 +11,7 @@ Data for this project is obtained from the following link:
  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
  
  
-## File Contained within this repository
+## Files within this repository
 
 README.md : explains how all of the scripts work and how they are connected
 
