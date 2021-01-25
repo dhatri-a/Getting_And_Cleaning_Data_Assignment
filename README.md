@@ -1,12 +1,12 @@
 # Getting_And_Cleaning_Data_Assignment
 
-README.md:      explains how all of the scripts work and how they are connected
+README.md : explains how all of the scripts work and how they are connected
 
-tidy_ data.txt: the tidy data set 
+tidy_ data.txt : the tidy data set 
 
-Cookbook.md:    describes the variables, the data, and any transformations or work performed to clean up the data
+Cookbook.md : describes the variables, the data, and any transformations or work performed to clean up the data
 
-run_anaysis.R:  does the following...
+run_anaysis.R :does the following...
 
     - Merges the training and the test sets to create one data set.
     - Extracts only the measurements on the mean and standard deviation for each measurement. 
